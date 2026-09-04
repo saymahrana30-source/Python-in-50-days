@@ -17,13 +17,28 @@ _Week 1: Fundamentals (Days 1-10)_
 Build a simple unit converter (e.g. km to miles) that handles user input safely with type conversion.
 
 ## Interview Questions
-**Q: What's the difference between / and // in Python?**
-
-A: / always returns a float (true division). // returns the floored (rounded down) integer result.
-
-**Q: What is operator precedence and why does it matter?**
-
-A: It determines the order operations run in (e.g. * before +). Misunderstanding it causes silent logic bugs.
+1️⃣ Arithmetic Operators
+What are arithmetic operators in Python?
+Difference between /, //, and %?
+What is the use of **?
+What is the output of 10 // 3 and 10 % 3?
+2️⃣ Comparison & Logical Operators
+Difference between = and ==?
+What are comparison operators?
+Explain and, or, and not.
+What is the difference between and and or?
+What type of value does a comparison return?
+3️⃣ Type Conversion
+What is type conversion?
+Difference between implicit and explicit type conversion?
+Why does input() return a string?
+How do you convert a string to int, float, and bool?
+What happens when you try to add a string and an integer?
+4️⃣ Operator Precedence
+What is operator precedence?
+Which executes first: +, *, /, or **?
+How do parentheses affect operator precedence?
+What is the output of 2 + 3 * 4 and why?
 
 ## Files
 - `exercises.py` — space to attempt today's challenge yourself first
