@@ -14,60 +14,59 @@ A full 50-day Python learning plan — fundamentals through a shipped capstone p
 
 ## Progress Log
 
-| Day | Topic | Status |
-|-----|-------|--------|
-| 01 | Variables, Data Types & Basic I/O | ☐ Not started |
-| 02 | Operators & Type Conversion | ☐ Not started |
-| 03 | Control Flow: if / elif / else | ☐ Not started |
-| 04 | Loops: for & while | ☐ Not started |
-| 05 | Strings Deep Dive | ☐ Not started |
-| 06 | Lists | ☐ Not started |
-| 07 | Tuples & Sets | ☐ Not started |
-| 08 | Dictionaries | ☐ Not started |
-| 09 | Functions Basics | ☐ Not started |
-| 10 | Functions Advanced + Week 1 Review | ☐ Not started |
-| 11 | OOP Basics: Classes & Objects | ☐ Not started |
-| 12 | Class vs Instance Variables & Constructors | ☐ Not started |
-| 13 | Inheritance | ☐ Not started |
-| 14 | Polymorphism & Encapsulation | ☐ Not started |
-| 15 | Magic / Dunder Methods | ☐ Not started |
-| 16 | File Handling | ☐ Not started |
-| 17 | Exception Handling | ☐ Not started |
-| 18 | Modules & Packages | ☐ Not started |
-| 19 | Iterators & Generators | ☐ Not started |
-| 20 | Decorators + Week 2 Project | ☐ Not started |
-| 21 | Comprehensions | ☐ Not started |
-| 22 | Recursion | ☐ Not started |
-| 23 | Searching Algorithms | ☐ Not started |
-| 24 | Sorting Algorithms I | ☐ Not started |
-| 25 | Sorting Algorithms II | ☐ Not started |
-| 26 | Stacks & Queues | ☐ Not started |
-| 27 | Linked Lists | ☐ Not started |
-| 28 | Time & Space Complexity (Big O) | ☐ Not started |
-| 29 | Practice Problems: Arrays & Strings | ☐ Not started |
-| 30 | Practice Problems: Mixed + Week 3 Project | ☐ Not started |
-| 31 | Virtual Environments & pip | ☐ Not started |
-| 32 | requests Library & APIs | ☐ Not started |
-| 33 | JSON Handling | ☐ Not started |
-| 34 | Web Scraping Basics | ☐ Not started |
-| 35 | pandas Basics | ☐ Not started |
-| 36 | pandas Data Manipulation | ☐ Not started |
-| 37 | File Automation Scripts | ☐ Not started |
-| 38 | Working with Dates, Times & the os Module | ☐ Not started |
-| 39 | Regular Expressions | ☐ Not started |
-| 40 | Intro to Web APIs (Flask/FastAPI) + Week 4 Project | ☐ Not started |
-| 41 | Capstone: Planning & Setup | ☐ Not started |
-| 42 | Capstone: Core Structure & Data Layer | ☐ Not started |
-| 43 | Capstone: Core Feature #1 | ☐ Not started |
-| 44 | Capstone: Core Feature #2 | ☐ Not started |
-| 45 | Capstone: Core Feature #3 / Integration | ☐ Not started |
-| 46 | Capstone: Polish & Refactor | ☐ Not started |
-| 47 | Capstone: Testing | ☐ Not started |
-| 48 | Capstone: Documentation | ☐ Not started |
-| 49 | Capstone: Final Bug Pass & Deployment Prep | ☐ Not started |
-| 50 | Capstone: Submission & Reflection | ☐ Not started |
+| Day | Topic |
+|-----|-------|
+| 01 | Variables, Data Types & Basic I/O 
+| 02 | Operators & Type Conversion
+| 03 | Control Flow: if / elif / else | 
+| 04 | Loops: for & while |
+| 05 | Strings Deep Dive | 
+| 06 | Lists | 
+| 07 | Tuples & Sets |
+| 08 | Dictionaries | 
+| 09 | Functions Basics |  
+| 10 | Functions Advanced + Week 1 Review |  
+| 11 | OOP Basics: Classes & Objects |  
+| 12 | Class vs Instance Variables & Constructors |  
+| 13 | Inheritance |  
+| 14 | Polymorphism & Encapsulation |  
+| 15 | Magic / Dunder Methods |  
+| 16 | File Handling |  
+| 17 | Exception Handling |  
+| 18 | Modules & Packages |  
+| 19 | Iterators & Generators |  
+| 20 | Decorators + Week 2 Project |  
+| 21 | Comprehensions |  
+| 22 | Recursion |  
+| 23 | Searching Algorithms |  
+| 24 | Sorting Algorithms I |  
+| 25 | Sorting Algorithms II |  
+| 26 | Stacks & Queues |  
+| 27 | Linked Lists |  
+| 28 | Time & Space Complexity (Big O) |  
+| 29 | Practice Problems: Arrays & Strings |  
+| 30 | Practice Problems: Mixed + Week 3 Project |  
+| 31 | Virtual Environments & pip |  
+| 32 | requests Library & APIs |  
+| 33 | JSON Handling |  
+| 34 | Web Scraping Basics |  
+| 35 | pandas Basics |  
+| 36 | pandas Data Manipulation |  
+| 37 | File Automation Scripts |  
+| 38 | Working with Dates, Times & the os Module |  
+| 39 | Regular Expressions |  
+| 40 | Intro to Web APIs (Flask/FastAPI) + Week 4 Project |  
+| 41 | Capstone: Planning & Setup |  
+| 42 | Capstone: Core Structure & Data Layer |  
+| 43 | Capstone: Core Feature #1 |  
+| 44 | Capstone: Core Feature #2 |  
+| 45 | Capstone: Core Feature #3 / Integration |  
+| 46 | Capstone: Polish & Refactor |  
+| 47 | Capstone: Testing |  
+| 48 | Capstone: Documentation |  
+| 49 | Capstone: Final Bug Pass & Deployment Prep |  
+| 50 | Capstone: Submission & Reflection |  
 
-Update the Status column as you go — swap ☐ Not started for ✅ Complete.
 
 ## Structure
 
@@ -91,3 +90,5 @@ python dayNN/solutions.py
 ## Interview Prep
 
 Every day includes 2 interview-style questions tied to that day's topic. By Day 50 you'll have ~100 Q&As covering fundamentals through OOP, algorithms, and real-world tooling — a solid personal interview prep bank.
+
+##by saymah rana💗
