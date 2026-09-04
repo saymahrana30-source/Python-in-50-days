@@ -24,20 +24,25 @@ What are arithmetic operators in Python?
 Difference between /, //, and %?
 What is the use of **?
 What is the output of 10 // 3 and 10 % 3?
-
+```
 2️⃣ Comparison & Logical Operators
+```
 Difference between = and ==?
 What are comparison operators?
 Explain and, or, and not.
 What is the difference between and and or?
 What type of value does a comparison return?
+```
 3️⃣ Type Conversion
+```
 What is type conversion?
 Difference between implicit and explicit type conversion?
 Why does input() return a string?
 How do you convert a string to int, float, and bool?
 What happens when you try to add a string and an integer?
+```
 4️⃣ Operator Precedence
+```
 What is operator precedence?
 Which executes first: +, *, /, or **?
 How do parentheses affect operator precedence?
