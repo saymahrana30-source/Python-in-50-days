@@ -91,4 +91,4 @@ python dayNN/solutions.py
 
 Every day includes 2 interview-style questions tied to that day's topic. By Day 50 you'll have ~100 Q&As covering fundamentals through OOP, algorithms, and real-world tooling — a solid personal interview prep bank.
 
-##by saymah rana💗
+## by saymah rana💗
