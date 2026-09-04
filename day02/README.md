@@ -17,11 +17,14 @@ _Week 1: Fundamentals (Days 1-10)_
 Build a simple unit converter (e.g. km to miles) that handles user input safely with type conversion.
 
 ## Interview Questions
+
 1️⃣ Arithmetic Operators
+```
 What are arithmetic operators in Python?
 Difference between /, //, and %?
 What is the use of **?
 What is the output of 10 // 3 and 10 % 3?
+
 2️⃣ Comparison & Logical Operators
 Difference between = and ==?
 What are comparison operators?
@@ -39,6 +42,7 @@ What is operator precedence?
 Which executes first: +, *, /, or **?
 How do parentheses affect operator precedence?
 What is the output of 2 + 3 * 4 and why?
+```
 
 ## Files
 - `exercises.py` — space to attempt today's challenge yourself first
