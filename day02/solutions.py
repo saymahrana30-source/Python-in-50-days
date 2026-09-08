@@ -6,6 +6,9 @@ Reference solution / starting approach for: Build a simple unit converter (e.g. 
 
 def main():
     # TODO: implement your solution here
+    ====== KM TO MILES CONVERTER ======
+Enter distance in kilometers: 10
+10.0 km = 6.21 miles
     pass
 
 
