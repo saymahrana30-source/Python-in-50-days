@@ -6,6 +6,11 @@ Reference solution / starting approach for: Write a grading script: takes a scor
 
 def main():
     # TODO: implement your solution here
+    ===== GRADE CALCULATOR =====
+
+Enter your score: 85
+
+Your grade is: B
     pass
 
 
